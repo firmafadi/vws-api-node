@@ -11,7 +11,7 @@ $ git clone {REPOSITORY}
 
 Copy the config file and adjust the needs
 ```
-$ copy .env-example .env
+$ cp .env-example .env
 ```
 
 Run the local server:
